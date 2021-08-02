@@ -1,3 +1,6 @@
+Demo Link
+
+Steps to run the project: https://drive.google.com/file/d/1Mrt5rNKI3Hy_YYr1lJxGoxdqfOtjJLaG/view?usp=sharing
 This repo has two folders.
 1. "backend": it contains the code for the backend apis which are being consumed by the React application.
 2. "subscriptions-frontend": it contains the frontend application code which consumes the backend API's.
